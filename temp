@@ -1,0 +1,2576 @@
+{
+  "product_id": "5541321",
+  "sku": "com.apostek.SlotMachine.paid",
+  "name": "Slot Machine+",
+  "developer": "Apostek Software LLP",
+  "version": "8.1.23",
+  "release_date": "2000-01-02 00:00:00",
+  "added_date": "2011-12-02 21:21:17",
+  "updated_date": "2018-05-04 14:36:51",
+  "icon": "https://lh3.ggpht.com/Xnmp06MUPMp99FUtsDaYKpEFTH6_GZK7sVmatNkwN8oWAqcMI3cdcmgTgn50ENxNmQ",
+  "store": 2,
+  "status": 0,
+  "deviceset": 1,
+  "type": 1,
+  "visible": true,
+  "active": true,
+  "extplatformset": 0,
+  "version_updated_date": "2018-03-27 00:00:00",
+  "categories": {
+    "main": 106,
+    "all": [
+      44,
+      46,
+      49,
+      100,
+      102,
+      106,
+      202,
+      206
+    ]
+  },
+  "screenshots": [
+    {
+      "language": "EN",
+      "tag": "1",
+      "url": "https://lh3.ggpht.com/gSuBTI0qUaLaIFkHi2Vtz9m1Cc_ZYbb3j5RpGg1svv-_wpg4F9NKxpr2Jzy6tD-VHA=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "10",
+      "url": "https://lh5.ggpht.com/liQjemGYZoc3WwGzZqvCuLwGsAuB-UlkS1n1YgiVoi8ca-oVsQHuC0H45VL_87Y-kw=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "11",
+      "url": "https://lh3.ggpht.com/a2fLasrNHxEsRhQZQkWtKBpnzNF6UoVlLhWCEZ4H5J1-AnmX2RziUTHNuYej15DB7ac=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "12",
+      "url": "https://lh3.ggpht.com/HUq6iThOMguwsehGaH38WOghUbnbeZmUtJur8goFnjsJeTx65j0FT5fZyzfRlOReOfs=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "13",
+      "url": "https://lh6.ggpht.com/AO6n7YXtVrRCKjpt5XG8deyqnjzvyK-OtMirC6IdkfXD4G-x6hrCiE2PF-2OLcPWEhVU=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "14",
+      "url": "https://lh4.ggpht.com/VZphvlyZF-m6xTaxaoAmfHejS_7ROEc4tcQacAj-Qcl8hnmNsi_XsELTjgI1DP42dmk=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "15",
+      "url": "https://lh3.ggpht.com/nOIqPCQXlX5jA62fcG4aWlmWe6u2fz2ijj92hX6QePZPF7dsDWnFviXAuqH7frcX2C8=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "16",
+      "url": "https://lh4.ggpht.com/d1jR1_4VPVE77XRLioTRZ-78bzb7CSnZztFbeKJKdjhudB30je8_XW0aqlSz3kmi7g=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "17",
+      "url": "https://lh4.ggpht.com/7N7luXufYas835mJJCv9m9-wrPoluZwH8cnW1rwCvnyETooXNr9sUn2V3dhYGcoCsm8=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "18",
+      "url": "https://lh6.ggpht.com/Jve3goON0n70Q_WfUAwmFlwKIuFPWPTOkQw0oZH9uhP7qb-ExzdZKBR9ey-vGFEGAwU=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "19",
+      "url": "https://lh5.ggpht.com/N6VeeBVbe2RoI5gxGpIMW-_Ith4xlcO1hG-fFsxv0hl6p1OyXXUWAhU13_F3tDs56g=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "2",
+      "url": "https://lh4.ggpht.com/LC2sRE7VjJwqnZ6AiWJxFTCacEnXwIGLnWU0OhYp8ewTR94b9wk_I2biyCHs447jNg=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "20",
+      "url": "https://lh4.ggpht.com/UQVObJ9leqvuAaDU9Kai0-fhmCeluvVc-SKn84Ppd46I4jg9OgV0Psbdw5XThlZKiyQ=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "21",
+      "url": "https://lh5.ggpht.com/qEXLGXS0Eqeet7ZHZYGJTiSZyDFEiRzZbjfpSiTbFTy2r1CRloJYwOylV1L6LJgLBA=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "3",
+      "url": "https://lh6.ggpht.com/0hfLvhLMqxRa9ovSe_6R1Du5oQ_lEK2stwGg-8q2dTfA-dv6jibYIkEhLXAYyn4I8g=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "4",
+      "url": "https://lh3.ggpht.com/MmSRJFXF9bTIJS3Fb5rBKjjV6Y6kjyuagZKkxk5nWsAIy9_KpSHyVnZIMISRaR5p2g=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "5",
+      "url": "https://lh3.ggpht.com/MyPjTUTY_DYRd_pdmbsIWmUiIq6AZncRARlfawpMRdR6eK4cdtQFvS6vAwSM3ZR01To=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "6",
+      "url": "https://lh4.ggpht.com/tLFw6dQRuGTlO2NjbXXCQzBhk0A1SIDcfPPzinc57arLry1BoANzxZ8E0KzkidVpf_M=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "7",
+      "url": "https://lh5.ggpht.com/cldOdTG9RXcuUysNTwoTHGwJrhHqCeRHRFqcq12ek2C-MAEvi13ICGD4TnFUxCf2hYu5=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "8",
+      "url": "https://lh6.ggpht.com/IM0wfIUuXQuwwf6xgsgN32H9Vgqg3ubjuzWVrYewc6dt48yimSd6LE6wXIHvZZsnoGsL=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "EN",
+      "tag": "9",
+      "url": "https://lh4.ggpht.com/zZNUPXRZTwcOIYrMjRPkw38R25nT4yHji6w4aPO8t2w_61MPEsksd7iWihYCOpqcIOyA=h310-rw",
+      "width_height": "",
+      "updated_date": "2017-03-09 11:47:35"
+    },
+    {
+      "language": "JA",
+      "tag": "1",
+      "url": "https://lh3.ggpht.com/hgPMF1nbfpIZAnZnkjQQ4p2Ig2lyawJzbI-oM5p6BimrZrVU81479vRqgaOqIXUM4-s=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "10",
+      "url": "https://lh5.ggpht.com/IH2b3M04583bPND4fwOANprZse8X3OUuWvD3B6hx7NUafZwJ_TerTZ2BQyO7LvboPQ=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "11",
+      "url": "https://lh4.ggpht.com/ueULF-O0UpGpVkgwlGsuUeOQIEQuTznCYE-ny9v3D2Oh9-0KbWjl-FhC3y-TuJPb3g4=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "12",
+      "url": "https://lh4.ggpht.com/8Ru_FDX7O_i4l9QYU51iRe7NyEw9ypIqd47_Q2_fBmAnk9yTaPOoO6LTzPKp3lqPtUq8=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "13",
+      "url": "https://lh3.ggpht.com/H3LSJiyssbrMchtxI4p_Mrcp0ItRVuQpVwI-jHKn3ApoizkAc-cTjpkTgQTUKILgQaM=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "14",
+      "url": "https://lh4.ggpht.com/BBtxabBLmxmz9j06MwgfRDZZ6Hz6GxqeBpMBB77QZ0nPwMaWEHc_wrO6nENyasLpTH0=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "15",
+      "url": "https://lh5.ggpht.com/b1tWSuP_uuCg-6NozIpJZ-KsVXrF3eIRTdHWVTJtY6SvxnopBkGq6TuvSyFjukCJbjE=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "16",
+      "url": "https://lh4.ggpht.com/7I_KvvqgSt8ZuvwPQhB0NypGCvop0HsryKSwNlVk7pdoMm7dTiWg_UcdS465iMSz5CSK=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "17",
+      "url": "https://lh3.ggpht.com/ckLCtheH97vrlj0x5_E3_xIT2F1A-NQBqozO4uSH-NPKGEWdibt_9MDIraGzFyl-Nls=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "18",
+      "url": "https://lh4.ggpht.com/C-y8Fs-dUrWwIXlY5PF2CTIProLIDBEg2wjJFPMbWFagKGPOh915Z7WVY0o2i-VyRRc=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "19",
+      "url": "https://lh6.ggpht.com/do5aki2ncE9HwSAkuaG_2uWHwlTTsq6sQ1SrWYuGMjpWyqtn3Zupvlq7qdcrZ-tkx4c=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "2",
+      "url": "https://lh3.ggpht.com/PBfZXk1GP84gpYWrRatUEUkyiEY1P2O8Q2pFxOc52thpec1onHRW0FHBMjmGVbRCUEU=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "20",
+      "url": "https://lh4.ggpht.com/QE_CCAf-Z3sgITaW1oDvkvC69yOT__ob3sJ1GPNdDk8ksZBUK4VQYJt1RmmWVJpInOM=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "21",
+      "url": "https://lh3.ggpht.com/iZZzfuBnDN3jppB0YY2yWuzw_N50xXUAJ1cGAkidIp10lVR1avT5m3KLrdsbYeXKX-I=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "3",
+      "url": "https://lh3.ggpht.com/pegVbk1RHOTkptQy2t6PHy7Yd6eYdYZw1WryL1KJPUfSy5r3-e4SJMUE7tRgzTnapmvw=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "4",
+      "url": "https://lh3.ggpht.com/QLcZ8a1Ir6prWX_VG3sN2G9H6nucRXL0Nn6yJBOOzTXcvezsavD7Cxx9LcpDjbKUZg=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "5",
+      "url": "https://lh6.ggpht.com/f5BUkFT5r6KzWfK-06CHKH_Q3NZkWZYDeOD0DsmCSSOC6FjVlAiL7dBpAFZMqoVhhWM=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "6",
+      "url": "https://lh6.ggpht.com/0zdElbH6vdVD1Rt19DcibjNSjycRQlGzWO22ttQ4pO-8sEBvCJDR88CQ-aeSRc6m4OQ=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "7",
+      "url": "https://lh5.ggpht.com/BJP2dbeD-y0DXofuzChIYsND1FhBCkS-kpDlwhLMHUdHnqtOnXxoqDL5QSmbQxhR3odQ=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "8",
+      "url": "https://lh4.ggpht.com/ThG_OwUOFYsSPjIywDNEkk5XEcVOfY5Yb-5iU9FFCUePxptiw2uMohT4XYTo2ys1THg=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    },
+    {
+      "language": "JA",
+      "tag": "9",
+      "url": "https://lh3.ggpht.com/fawIDepkhBVmTlsshYGyDHGRmMteN9ftSYCTcRgpDQNZWR3puj9T3kCt49UlnEqlCIE=h310-rw",
+      "width_height": "",
+      "updated_date": "2015-07-27 19:32:46"
+    }
+  ],
+  "developer_id": "183980",
+  "developer_country": "IN",
+  "meta": {
+    "all_rating.EN": "4.4",
+    "all_rating_count.EN": "12118",
+    "primary_description.EN": "Play Slot Machine+, pro version of popular Vegas Casino Style Slot Machine. \n★ THE SLOT+ ADVANTAGE ★\n- No Ads\n- High Paying 'Get Xtras' Bonus - upto $25,000/week! (Free version pays only $10,000)\n- Higher Payouts Mini Games On Reels: Video Poker & Horse Racing \n- Unlocked PROGRESSIVE SUPER JACKPOT\n★ TOP FEATURES ★\n- Play with 5 paylines upto 50 levels\n- Loads of high rewarding casino games\n- Progressive Jackpot. Free chips every 60 seconds! \n- Online Worldwide Leaderboards to compete\n- 2x MULTIPLIERS & Nudge/Hold to improve your winnings\nFor feature requests or feedback, write to us at supportandroid@apostek.com \nFor updates, contests and connecting with other players:\nPrivacy Policy:\nhttp://apostek.com/appsimg/apps/SlotMachine_Revamped/privacy_policy/privacy_policy.html\nLIKE US on Facebook: http://facebook.com/apostekapps\nFOLLOW US on Twitter: http://twitter.com/apostekgames",
+    "developer_email.EN": "supportandroid@apostek.com",
+    "developer_location.en": "128, 4th Main, Defence Colony, Indiranagar, Bangalore, Karnataka 560038, India",
+    "developer_site.EN": "http://www.apostek.com/apps/",
+    "developer_vendor_id.en": "Apostek+Software+LLP",
+    "download_size.EN": "67108864",
+    "downloads.EN": "100,000+",
+    "editors_choice.en": "false",
+    "has_ads.en": "true",
+    "has_inapps.EN": "true",
+    "localized_name.EN": "Slot Machine+",
+    "privacy_policy.en": "http://apostek.com/appsimg/apps/SlotMachine_Revamped/privacy_policy/privacy_policy.html",
+    "rating.EN": "Teen",
+    "release_notes.EN": "Brand New Update v8.1.23, Update now!\n+ Fixed Slots Screen Reels Issue \n+ Score recovery on hitting Leaderboard\n+ Daily Tasks Rewards\n+ Added the brand new MULTIPLAYER feature for slots\n+ Huge Payouts in Slots and Video Poker\n+ Brand new look with new game characters\nThanks for playing Slot Machine. Reach us at supportandroid@apostek.com for any suggestions, improvements, issues OR to say 'Thank You' :)",
+    "top_developer.EN": "false",
+    "video_url.EN": "https://www.youtube.com/embed/PUriwGjfglk?ps=play&vq=large&rel=0&autohide=1&showinfo=0&autoplay=1",
+    "view_url.EN": "https://play.google.com/store/apps/details?id=com.apostek.SlotMachine.paid&hl=en&gl=us",
+    "all_rating.fr": "4.4",
+    "all_rating_count.fr": "12116",
+    "primary_description.fr": "<div jsname=\"C4s9Ed\">Slot Machine ★ + élu meilleur jeu de casino par Best App Awards jamais 2011! ★ http://bestappever.com/awards/2011/winner/csgm<br><br>The Original # 1 Slots Casino Vegas style avec plus de 10 millions de joueurs à travers le monde est désormais encore plus impressionnant. Profitez lignes de paiement multiples, des thèmes différents, surprenants mini-jeux, le Super Jackpot $, boutique virtuelle et partez! Absolument GRATUIT!<br><br>LA FENTE ★ AVANTAGE +<br>✔ Pas annonces<br>✔ Haute payeur »Obtenez Xtras» Bonus - jusqu'à $ 25,000 / semaine! (Version gratuite ne paie que $ 10.000)<br>✔ La hausse des crédits de départ!<br>✔ Les paiements supérieurs mini-jeux sur des bobines: Vidéo Poker &amp; Horse Racing<br>✔ $ 30/minute SUPER JACKPOT PROGRESSIF<br>✔ Skins passionnants comme Las Vegas, Aqua, 4ème de Juillet, vacances et Halloween sont disponibles gratuitement pour<br><br><br>★ ★ CARACTÉRISTIQUES TOP<br>✔ lignes de mise MULTI - Jouez jusqu'à 3 pièces et 5 lignes de paiement en espèces maximale / victoires<br>✔ MULTIPLICATEURS 2x pour doubler vos gains. Packs de 02/01/12 heures et 7 jours<br>✔ 5 jeux passionnants MINI - Super Spinner, Lucky Pot d'Or, le Vidéo Poker, Scratch Card et Derby possible. \"Play for Fun\" OU \"Jouer avec des pièces!<br>✔ SUPER JACKPOT PROGRESSIF - devenir riche rapidement! Crédits gratuits toutes les 60 secondes! Valeur de base de 100 $. Incréments après 3 minutes.<br>✔ 'GET' XTRAS Bonus - Super Sunday, 3 In A Row, à 500 tours. Mise à niveau + slot pour gagner jusqu'à $ 25,000 / semaine<br>✔ CASH OUT &amp; SHOP VIRTUEL - Collecter et mettre en valeur les produits de luxe dans votre propre emporium virtuelle<br>✔ CLASSEMENTS EN LIGNE ET RÉALISATIONS - En concurrence avec d'autres joueurs pour les grands honneurs sur 3 classements en ligne et gagnez 25 + badges<br>✔ NUDGE et maintenez pour augmenter vos gains. Obtenez 25 gratuit tous les jours!<br>✔ hors de la fente $ $ $? Obtenez le nouveau 5k/10k/20k à sous $ packs et grimper dans le classement.<br>✔ UPGRADE YOUR GAME - Pièces utilisation de débloquer des mini-jeux élevés de paiement, obtenir de nouveaux thèmes, supprimer des annonces et obtenir coup de pouce / hold paquets<br><br>Pour les demandes de fonctionnalités ou des commentaires, écrivez-nous à supportandroid@apostek.com<br><br>Pour les mises à jour, des concours et de connexion avec d'autres joueurs:<br>COMME NOUS sur Facebook: http://facebook.com/apostekapps<br>SUIVEZ-NOUS sur Twitter: http://twitter.com/apostekapps</div>",
+    "developer_location.fr": "128, 4th Main, Defence Colony, Indiranagar, Bangalore, Karnataka 560038, India",
+    "developer_vendor_id.fr": "Apostek+Software+LLP",
+    "downloads.fr": "Entre100 000et500 000",
+    "has_inapps.fr": "true",
+    "localized_name.fr": "Slot Machine + - Free Casino",
+    "rating.fr": "Adolescents",
+    "release_notes.fr": "<div class=\"recent-change\">Brand New Update v8.1.20 Update now!</div>\n<div class=\"recent-change\">+ Score recovery on hitting Leaderboard</div>\n<div class=\"recent-change\">+ Daily Tasks Rewards</div>\n<div class=\"recent-change\">+ Added the brand new MULTIPLAYER feature for slots</div>\n<div class=\"recent-change\">+ Huge Payouts in Slots and Video Poker</div>\n<div class=\"recent-change\">+ Brand new look with new game characters</div>\n<div class=\"recent-change\">Thanks for playing Slot Machine. Reach us at supportandroid@apostek.com for any suggestions, improvements, issues OR to say 'Thank You' :)</div>",
+    "top_developer.fr": "false",
+    "video_url.fr": "https://www.youtube.com/embed/PUriwGjfglk?ps=play&vq=large&rel=0&autohide=1&showinfo=0&autoplay=1",
+    "view_url.fr": "https://play.google.com/store/apps/details?id=com.apostek.SlotMachine.paid&hl=fr&gl=us",
+    "all_rating.JA": "4.4",
+    "all_rating_count.JA": "12116",
+    "primary_description.JA": "<div jsname=\"C4s9Ed\">★ Slot Machine+ Best App Ever Awards 2011において、最優秀カジノゲームを受賞！ http://bestappever.com/awards/2011/winner/csgm ★<br><br>ラスベガスカジノスタイルスロットの元祖＃１、世界中1000万人以上のプレイヤーは今ではさらに素敵になりました。マルチペイライン、様々なテーマ、驚きのミニゲーム、スーパージャックポット、バーチャルショップなどを楽しもう！完全無料！<br><br><br>SLOT+ の長所★<br>広告なし<br>高払い戻しの「おまけゲット」ボーナス―際だ$25,000／週！（無料版は$10,000だけ）<br>開始クレジットを増額！<br>高ペイアウトのリール上ミニゲーム：ビデオポーカー＆競馬 <br>$30／分の累進スーパージャックポット <br>ベガス、アクア、独立記念日、祝祭、そしてハロウィーンといった刺激的なスキンを無料で利用可能  <br><br><br>★ トップフィーチャー ★<br>✔ マルチベットライン―最大3コインと5ペイラインをベットして最高のキャッシュ／賞金を獲得<br>✔ 2xマルチプライヤーで賞金を倍に。1／2／12時間と7日間のパック <br>✔ 5つの刺激的なミニゲーム―スーパースピナー、ラッキーのゴールドポット、ビデオポーカー、スクラッチカード、そしてスーパーダービー。「楽しくプレイ」か「コインでプレイ」を選択可能！<br>✔ 累進型スーパージャックポット―素早くリッチになろう！60秒毎にフリークレジット！ $100のベースバリュー。3分後に増えます。<br>✔ 「おまけをゲット」ボーナスクレジット―スーパーサンデー、3連続、500スピン。Slot+にアップグレードして最大$25,000／週を獲得。<br>✔ キャッシュアウト＆バーチャルショップ―高級アイテムを集めて、あなただけのバーチャルショップに飾ろう<br><br>✔ オンラインランキング＆実績―3つのオンラインランキングで他のプレイヤーとトップの座を競い、25個以上のバッジを獲得<br>✔ ナッジ＆ホールドで賞金を増やそう。毎日25個フリーでゲット！<br>✔ 友達を連れてこよう：友達を招待してスペシャルボーナスをゲット<br><br>✔ スロット$$$不足？新登場の5000/10000/20000スロット$パックをゲットしてランキングを登りつめよう<br><br>✔ ゲームをアップグレード―コインを使って高ペイアウトのミニゲームをロック解除、新テーマを獲得、広告を除去してナッジ／ホールドパックをゲット<br><br>フィーチャーリクエストやフィードバックに関しては supportandroid@apostek.comまでお問い合わせください。 <br>アップデート、コンテストや他のプレイヤーとの繋がりに関しては：<br>Facebookでいいね！してください： http://facebook.com/apostekapps<br>Twitterでフォローしてください： http://twitter.com/apostekapps</div>",
+    "developer_location.ja": "128, 4th Main, Defence Colony, Indiranagar, Bangalore, Karnataka 560038, India",
+    "developer_vendor_id.ja": "Apostek+Software+LLP",
+    "downloads.JA": "100000～500000",
+    "has_inapps.JA": "true",
+    "localized_name.JA": "スロットマシン+ - 自由なカジノ",
+    "rating.JA": "13 歳以上",
+    "release_notes.JA": "<div class=\"recent-change\">Brand New Update v8.1.20 Update now!</div>\n<div class=\"recent-change\">+ Score recovery on hitting Leaderboard</div>\n<div class=\"recent-change\">+ Daily Tasks Rewards</div>\n<div class=\"recent-change\">+ Added the brand new MULTIPLAYER feature for slots</div>\n<div class=\"recent-change\">+ Huge Payouts in Slots and Video Poker</div>\n<div class=\"recent-change\">+ Brand new look with new game characters</div>\n<div class=\"recent-change\">Thanks for playing Slot Machine. Reach us at supportandroid@apostek.com for any suggestions, improvements, issues OR to say 'Thank You' :)</div>",
+    "top_developer.JA": "false",
+    "video_url.JA": "https://www.youtube.com/embed/PUriwGjfglk?ps=play&vq=large&rel=0&autohide=1&showinfo=0&autoplay=1",
+    "view_url.JA": "https://play.google.com/store/apps/details?id=com.apostek.SlotMachine.paid&hl=ja&gl=us"
+  },
+  "prices": {
+    "143441": "0.99 USD",
+    "143442": "1.19 EUR",
+    "143443": "1.19 EUR",
+    "143444": "1.09 GBP",
+    "143445": "1.19 EUR",
+    "143446": "1.19 EUR",
+    "143447": "1.29 EUR",
+    "143448": "1.29 EUR",
+    "143449": "1.29 EUR",
+    "143450": "1.19 EUR",
+    "143451": "1.19 EUR",
+    "143452": "1.19 EUR",
+    "143453": "1.29 EUR",
+    "143454": "1.19 EUR",
+    "143455": "1.49 CAD",
+    "143456": "12 SEK",
+    "143457": "12 NOK",
+    "143458": "10 DKK",
+    "143459": "1.1 CHF",
+    "143460": "1.69 AUD",
+    "143461": "1.79 NZD",
+    "143462": "130 JPY",
+    "143463": "9.9 HKD",
+    "143464": "1.49 SGD",
+    "143465": "1.17 USD",
+    "143466": "0.99 USD",
+    "143467": "75 INR",
+    "143468": "21 MXN",
+    "143469": "69 RUB",
+    "143470": "38 TWD",
+    "143471": "27000 VND",
+    "143472": "14.99 ZAR",
+    "143473": "4.99 MYR",
+    "143474": "59 PHP",
+    "143475": "40 THB",
+    "143476": "16000 IDR",
+    "143477": "120 PKR",
+    "143478": "5.29 PLN",
+    "143479": "4 USD",
+    "143480": "4.09 TRY",
+    "143481": "3.64 USD",
+    "143482": "399 HUF",
+    "143483": "780 CLP",
+    "143484": "1.17 USD",
+    "143485": "1.17 USD",
+    "143486": "175 LKR",
+    "143487": "5.49 RON",
+    "143489": "31.99 CZK",
+    "143491": "4.1 ILS",
+    "143492": "30.99 UAH",
+    "143493": "0.99 USD",
+    "143494": "9 HRK",
+    "143495": "670 CRC",
+    "143496": "1.19 EUR",
+    "143497": "1750 LBP",
+    "143498": "3.6043 USD",
+    "143499": "1.19 EUR",
+    "143501": "3500 COP",
+    "143502": "1.17 USD",
+    "143503": "3.89 BRL",
+    "143504": "1.17 USD",
+    "143505": "1.17 USD",
+    "143506": "1.17 USD",
+    "143507": "3.79 PEN",
+    "143508": "1.17 USD",
+    "143509": "1.17 USD",
+    "143510": "1.17 USD",
+    "143511": "1.17 USD",
+    "143512": "1.17 USD",
+    "143513": "1.17 USD",
+    "143514": "1.17 USD",
+    "143515": "1.17 USD",
+    "143516": "20.99 EGP",
+    "143517": "380 KZT",
+    "143518": "1.19 EUR",
+    "143519": "1.19 EUR",
+    "143520": "1.19 EUR",
+    "143521": "0.99 EUR",
+    "143523": "1.17 USD",
+    "143524": "1.17 USD",
+    "143525": "1.17 USD",
+    "143526": "2.39 BGN",
+    "143528": "0.99 USD",
+    "143529": "200 KES",
+    "143530": "1.17 USD",
+    "143531": "1.17 USD",
+    "143532": "0.99 EUR",
+    "143533": "1.17 USD",
+    "143534": "0.99 EUR",
+    "143535": "1.17 USD",
+    "143536": "0.99 USD",
+    "143537": "1.17 USD",
+    "143538": "1.17 USD",
+    "143539": "1.17 USD",
+    "143540": "1.17 USD",
+    "143541": "1.17 USD",
+    "143542": "1.17 USD",
+    "143543": "1.17 USD",
+    "143544": "1.17 USD",
+    "143545": "1.17 USD",
+    "143546": "1.17 USD",
+    "143547": "1.17 USD",
+    "143548": "1.17 USD",
+    "143549": "1.17 USD",
+    "143550": "1.17 USD",
+    "143551": "1.17 USD",
+    "143552": "1.17 USD",
+    "143553": "1.17 USD",
+    "143554": "1.17 USD",
+    "143555": "1.17 USD",
+    "143556": "7.99 BOB",
+    "143557": "1.19 EUR",
+    "143558": "0.99 EUR",
+    "143559": "0.99 USD",
+    "143560": "1.17 USD",
+    "143561": "375 NGN",
+    "143562": "0.99 USD",
+    "143563": "0.99 USD",
+    "143564": "1.17 USD",
+    "143565": "1.17 USD",
+    "143566": "1.17 USD",
+    "143568": "1.17 USD",
+    "143571": "0.99 USD",
+    "143572": "2600 TZS",
+    "143573": "5 GHS",
+    "143575": "1.17 USD",
+    "143576": "0.99 EUR",
+    "143577": "1.17 USD",
+    "143578": "0.99 EUR",
+    "143579": "0.99 USD",
+    "143580": "1.17 USD",
+    "143581": "0.99 EUR",
+    "143582": "0.99 EUR",
+    "143583": "1.17 USD",
+    "143584": "1.17 USD",
+    "143585": "0.99 EUR",
+    "143586": "1.17 USD",
+    "143587": "1.17 USD",
+    "143588": "1.17 USD",
+    "143589": "1.17 USD",
+    "143590": "1.17 USD",
+    "143591": "1.17 USD",
+    "143592": "1.17 USD",
+    "143593": "1.17 USD",
+    "143594": "1.17 USD",
+    "143595": "0.99 USD",
+    "143597": "1.17 USD",
+    "143598": "1.17 USD",
+    "143599": "1.17 USD",
+    "143600": "1.17 USD",
+    "143601": "1.17 USD",
+    "143602": "1.17 USD",
+    "143603": "1.17 USD",
+    "143604": "1.17 USD",
+    "143605": "1.17 USD"
+  },
+  "sdks": [],
+  "availability": [
+    {
+      "type": 0,
+      "key": "ae",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ag",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ai",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "al",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "am",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ao",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ar",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "at",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "au",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "az",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bb",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "be",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bf",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bg",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bh",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bj",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bm",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "bn",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "bo",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "br",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bs",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bt",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "bw",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "by",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "bz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ca",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cg",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ch",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cl",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cn",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "co",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cr",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cv",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cy",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "cz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "de",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "dk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "dm",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "do",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "dz",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ec",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ee",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "eg",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "es",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "fi",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "fj",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "fm",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "fr",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gb",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gd",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "gh",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gm",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "gr",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gt",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gw",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "gy",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "hk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "hn",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "hr",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "hu",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "id",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ie",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "il",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "in",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "is",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "it",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "jm",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "jo",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "jp",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ke",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "kg",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "kh",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "kn",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "kr",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "kw",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ky",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "kz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "la",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "lb",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "lc",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "lk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "lr",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "lt",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "lu",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "lv",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "md",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "mg",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "mk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ml",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "mn",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "mo",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "mr",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ms",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "mt",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "mu",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "mw",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "mx",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "my",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "mz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "na",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ne",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ng",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ni",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "nl",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "no",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "np",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "nz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "om",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "pa",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pe",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pg",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ph",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pl",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pt",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "pw",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "py",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "qa",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ro",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ru",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sa",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "sb",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "sc",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "se",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sg",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "si",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sk",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sl",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "sn",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sr",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "st",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "sv",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "sz",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "tc",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "td",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "th",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tj",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tm",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tn",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "tr",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tt",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tw",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "tz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ua",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ug",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "us",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "uy",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "uz",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "vc",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "ve",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "vg",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "vn",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "ye",
+      "status": 2
+    },
+    {
+      "type": 0,
+      "key": "za",
+      "status": 1
+    },
+    {
+      "type": 0,
+      "key": "zw",
+      "status": 1
+    },
+    {
+      "type": 1,
+      "key": "af",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "am",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ar",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "az",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "be",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "bg",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "bn",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ca",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "cs",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "da",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "de",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "el",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "en",
+      "status": 1
+    },
+    {
+      "type": 1,
+      "key": "es",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "et",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "eu",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "fa",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "fi",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "fil",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "fr",
+      "status": 1
+    },
+    {
+      "type": 1,
+      "key": "gl",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "he",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "hi",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "hr",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "hu",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "hy",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "id",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "is",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "it",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ja",
+      "status": 1
+    },
+    {
+      "type": 1,
+      "key": "ka",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "km",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "kn",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ko",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ky",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "lo",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "lt",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "lv",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ma",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "mk",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ml",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "mn",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "mr",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ms",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "my",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ne",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "nl",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "no",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "pl",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "po",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "pr",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "pt",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "rm",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ro",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ru",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "si",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "sk",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "sl",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "sr",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "sv",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "sw",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "ta",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "te",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "th",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "tr",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "uk",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "vi",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "zh",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "zh-Hans",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "zh-Hant",
+      "status": 2
+    },
+    {
+      "type": 1,
+      "key": "zu",
+      "status": 2
+    },
+    {
+      "type": 3,
+      "key": "tv",
+      "status": 2
+    }
+  ],
+  "exact_apps": [],
+  "similar_apps": [
+    {
+      "related_id": "9592567",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "851",
+      "ratings_score": "7738"
+    },
+    {
+      "related_id": "10007186",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "740",
+      "ratings_score": "3887"
+    },
+    {
+      "related_id": "10147327",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "756",
+      "ratings_score": "20498"
+    },
+    {
+      "related_id": "10304146",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "621",
+      "ratings_score": "23073"
+    },
+    {
+      "related_id": "10409002",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "824",
+      "ratings_score": "23007"
+    },
+    {
+      "related_id": "10493626",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "703",
+      "ratings_score": "11430"
+    },
+    {
+      "related_id": "10869513",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "668",
+      "ratings_score": "20013"
+    },
+    {
+      "related_id": "10903930",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "650",
+      "ratings_score": "33242"
+    },
+    {
+      "related_id": "10905466",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "795",
+      "ratings_score": "12921"
+    },
+    {
+      "related_id": "10939037",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "702",
+      "ratings_score": "12744"
+    },
+    {
+      "related_id": "10943575",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "800",
+      "ratings_score": "27287"
+    },
+    {
+      "related_id": "10945240",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "676",
+      "ratings_score": "23579"
+    },
+    {
+      "related_id": "10991449",
+      "store": 1,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "692",
+      "ratings_score": "7422"
+    },
+    {
+      "related_id": "11006747",
+      "store": 1,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "692",
+      "ratings_score": "12700"
+    },
+    {
+      "related_id": "11015667",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "658",
+      "ratings_score": "2793"
+    },
+    {
+      "related_id": "11015674",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "769",
+      "ratings_score": "24185"
+    },
+    {
+      "related_id": "11073344",
+      "store": 1,
+      "deviceset": 2,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "687",
+      "ratings_score": "875"
+    },
+    {
+      "related_id": "11074632",
+      "store": 1,
+      "deviceset": 2,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "687",
+      "ratings_score": "7401"
+    },
+    {
+      "related_id": "11125156",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "625",
+      "ratings_score": "8052"
+    },
+    {
+      "related_id": "11174105",
+      "store": 1,
+      "deviceset": 2,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "742",
+      "ratings_score": "4058"
+    },
+    {
+      "related_id": "11201136",
+      "store": 1,
+      "deviceset": 2,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "694",
+      "ratings_score": "6229"
+    },
+    {
+      "related_id": "11201155",
+      "store": 1,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "705",
+      "ratings_score": "5954"
+    },
+    {
+      "related_id": "11202355",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "841",
+      "ratings_score": "5376"
+    },
+    {
+      "related_id": "11247278",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "814",
+      "ratings_score": "11192"
+    },
+    {
+      "related_id": "11271414",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "746",
+      "ratings_score": "12496"
+    },
+    {
+      "related_id": "11283742",
+      "store": 1,
+      "deviceset": 11,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "699",
+      "ratings_score": "18139"
+    },
+    {
+      "related_id": "11987976",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "688",
+      "ratings_score": "14262"
+    },
+    {
+      "related_id": "212775861",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "726",
+      "ratings_score": "9940"
+    },
+    {
+      "related_id": "1119202325",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "622",
+      "ratings_score": "37906"
+    },
+    {
+      "related_id": "1122034818",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "632",
+      "ratings_score": "24230"
+    },
+    {
+      "related_id": "4484028877",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "834",
+      "ratings_score": "13340"
+    },
+    {
+      "related_id": "7487786227",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "834",
+      "ratings_score": "11845"
+    },
+    {
+      "related_id": "7535376034",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "842",
+      "ratings_score": "14929"
+    },
+    {
+      "related_id": "7948755698",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "829",
+      "ratings_score": "16660"
+    },
+    {
+      "related_id": "10176545257",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "687",
+      "ratings_score": "31079"
+    },
+    {
+      "related_id": "10177288037",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "811",
+      "ratings_score": "24793"
+    },
+    {
+      "related_id": "10256947493",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "679",
+      "ratings_score": "9685"
+    },
+    {
+      "related_id": "10582094295",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "637",
+      "ratings_score": "12359"
+    },
+    {
+      "related_id": "10700790000",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "680",
+      "ratings_score": "31642"
+    },
+    {
+      "related_id": "10704477928",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "654",
+      "ratings_score": "26351"
+    },
+    {
+      "related_id": "10707039264",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "839",
+      "ratings_score": "25804"
+    },
+    {
+      "related_id": "11125338395",
+      "store": 1,
+      "deviceset": 4,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "682",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "11232692830",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "828",
+      "ratings_score": "24674"
+    },
+    {
+      "related_id": "16988693273",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "685",
+      "ratings_score": "13414"
+    },
+    {
+      "related_id": "21599644167",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "710",
+      "ratings_score": "11976"
+    },
+    {
+      "related_id": "21985286226",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "700",
+      "ratings_score": "17674"
+    },
+    {
+      "related_id": "39788242070",
+      "store": 2,
+      "deviceset": 0,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "685",
+      "ratings_score": "3789"
+    },
+    {
+      "related_id": "39853387642",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "615",
+      "ratings_score": "16096"
+    },
+    {
+      "related_id": "39870534998",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "688",
+      "ratings_score": "16053"
+    },
+    {
+      "related_id": "39898645161",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "733",
+      "ratings_score": "11968"
+    },
+    {
+      "related_id": "40012022289",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "846",
+      "ratings_score": "7605"
+    },
+    {
+      "related_id": "40099502572",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "848",
+      "ratings_score": "10324"
+    },
+    {
+      "related_id": "40110302932",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "722",
+      "ratings_score": "10175"
+    },
+    {
+      "related_id": "40123606786",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "860",
+      "ratings_score": "4856"
+    },
+    {
+      "related_id": "40138605038",
+      "store": 2,
+      "deviceset": 0,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "719",
+      "ratings_score": "10741"
+    },
+    {
+      "related_id": "40298097444",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "744",
+      "ratings_score": "4871"
+    },
+    {
+      "related_id": "40376714571",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "674",
+      "ratings_score": "15329"
+    },
+    {
+      "related_id": "40403419088",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "798",
+      "ratings_score": "9860"
+    },
+    {
+      "related_id": "40410953731",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "833",
+      "ratings_score": "15277"
+    },
+    {
+      "related_id": "40895103705",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "814",
+      "ratings_score": "6405"
+    },
+    {
+      "related_id": "40908302383",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "817",
+      "ratings_score": "12265"
+    },
+    {
+      "related_id": "40908302590",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "710",
+      "ratings_score": "6314"
+    },
+    {
+      "related_id": "40915361157",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "857",
+      "ratings_score": "8130"
+    },
+    {
+      "related_id": "40960725109",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "836",
+      "ratings_score": "6146"
+    },
+    {
+      "related_id": "41009630071",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "805",
+      "ratings_score": "9471"
+    },
+    {
+      "related_id": "41076304730",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "667",
+      "ratings_score": "14460"
+    },
+    {
+      "related_id": "41191854040",
+      "store": 2,
+      "deviceset": 0,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "842",
+      "ratings_score": "2378"
+    },
+    {
+      "related_id": "41212091846",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "721",
+      "ratings_score": "2137"
+    },
+    {
+      "related_id": "41247918529",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "656",
+      "ratings_score": "15378"
+    },
+    {
+      "related_id": "41294686792",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "834",
+      "ratings_score": "5554"
+    },
+    {
+      "related_id": "41341296819",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "777",
+      "ratings_score": "16673"
+    },
+    {
+      "related_id": "41457279823",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "780",
+      "ratings_score": "4097"
+    },
+    {
+      "related_id": "41511018981",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "689",
+      "ratings_score": "14208"
+    },
+    {
+      "related_id": "41731656861",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "677",
+      "ratings_score": "11428"
+    },
+    {
+      "related_id": "41794145878",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "691",
+      "ratings_score": "11751"
+    },
+    {
+      "related_id": "41833431325",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "694",
+      "ratings_score": "16155"
+    },
+    {
+      "related_id": "41836044624",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "694",
+      "ratings_score": "13587"
+    },
+    {
+      "related_id": "41837196724",
+      "store": 34,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "793",
+      "ratings_score": "26761"
+    },
+    {
+      "related_id": "41837198218",
+      "store": 34,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "709",
+      "ratings_score": "9065"
+    },
+    {
+      "related_id": "41952220753",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "800",
+      "ratings_score": "4808"
+    },
+    {
+      "related_id": "42029085833",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "718",
+      "ratings_score": "12746"
+    },
+    {
+      "related_id": "45792288185",
+      "store": 2,
+      "deviceset": 0,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "707",
+      "ratings_score": "5623"
+    },
+    {
+      "related_id": "52323453509",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "695",
+      "ratings_score": "9560"
+    },
+    {
+      "related_id": "100351158175",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "669",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351158189",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "805",
+      "ratings_score": "20179"
+    },
+    {
+      "related_id": "100351484779",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "719",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351532670",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 129,
+      "score": "746",
+      "ratings_score": "12638"
+    },
+    {
+      "related_id": "100351532937",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "664",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351532941",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "709",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351532949",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "660",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351532975",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "709",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "100351532986",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "740",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "103858757359",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "673",
+      "ratings_score": "21835"
+    },
+    {
+      "related_id": "104581028720",
+      "store": 2,
+      "deviceset": 9,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "680",
+      "ratings_score": "36381"
+    },
+    {
+      "related_id": "104597437385",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "821",
+      "ratings_score": "709"
+    },
+    {
+      "related_id": "111130724416",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "745",
+      "ratings_score": "947"
+    },
+    {
+      "related_id": "111997982595",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "674",
+      "ratings_score": "28659"
+    },
+    {
+      "related_id": "194186640965",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 0,
+      "extplatformset": 0,
+      "score": "709",
+      "ratings_score": "13500"
+    },
+    {
+      "related_id": "264362211434",
+      "store": 2,
+      "deviceset": 1,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "627",
+      "ratings_score": "41371"
+    },
+    {
+      "related_id": "280061109422",
+      "store": 1,
+      "deviceset": 3,
+      "product_type": 1,
+      "extplatformset": 0,
+      "score": "685",
+      "ratings_score": "16823"
+    }
+  ],
+  "permissions": []
+}
